@@ -16,27 +16,32 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 
 # Your Changes
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+To find out the reasons of the high turnover among junior positions at my company.
+Therefore, the management team will be able to do something to make employee happy with their jobs.
+
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+target pupulation: all lower-level positions employee in this company
+sampling frame: all lower-level employees who have passed the probation
+sampling units:lower-level employees
+observation units: lower-level employees who passed the probation and responsed to the survey
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
+1. Do you foresee yourself still with this company in five years?
+2. How long do you think you will be promoted to a higher position?
+3. What do you think are the perks to work for our ocompany?
+4. Do you think your work is valuble to your coworkers or the management team?
+5. How do you think our pay is competitive in the job market?
+6. Do you feel your work sometimes burn you out?
+7. How much do you think you have learn after join us?
 8. write your question here... (optional)
 9. write your question here... (optional)
 10. write your question here... (optional)
