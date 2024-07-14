@@ -11,10 +11,12 @@ Modify the number of repetitions in the simulation to 1000 (from the original 50
 Alter the code so that it is reproducible. Describe the changes you made to the code and how they affected the reproducibility of the script file. The output does not need to match Whitby’s original blogpost/graphs, it just needs to produce the same output when run multiple times
 
 # Author: YOUR NAME
-
+Jingyi Lu
 ```
 Please write your explanation here...
-
+Does this code appear to reproduce the graphs from the original blog post?  Yes,the overall patterns are similar.
+The original script with 50,000 repetitions produces smoother graphs than when run 1,000 times.
+alter the code by "np.random.seed(10)" in the begining of script,ensure the result reproducible
 ```
 
 
