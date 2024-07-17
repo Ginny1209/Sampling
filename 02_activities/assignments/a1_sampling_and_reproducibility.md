@@ -16,7 +16,12 @@ Jingyi Lu
 Please write your explanation here...
 Does this code appear to reproduce the graphs from the original blog post?  Yes,the overall patterns are similar.
 The original script with 50,000 repetitions produces smoother graphs than when run 1,000 times.
-alter the code by "np.random.seed(10)" in the begining of script,ensure the result reproducible
+code explaination:
+whitby_covid_tracing.py is to simulate the infection and tracing process caused by weddings and brunches,analyze the contribution of these events to spread of virus. and visualize the distribution of the proportions of infections and traced cases after the funcion been called 1000 times.
+The dataframe is created with 1000 people, 200 for wedding and 800 for brunches. According to the 10% attack rate(10% of the population will be infected).aka, 100 people infected. then in the primary tracking,20% of 100 been successfully tracked. If an event has at least 2 people who have been traced,second tracking will be conducted.
+After that, we calculate Proportion of infections attributed to weddings(number of infections at wedding/total number of infection) & Proportion of traced cases attributed to weddings: number of traced cases from weddings / total number of traced cases
+by setting the seed, np.random.seed(10) ensures that every time the script is run, results are reproducible.
+After the stimulate for 1000 times, we get the plot.
 ```
 
 
