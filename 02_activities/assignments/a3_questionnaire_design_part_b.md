@@ -17,16 +17,18 @@ I still expect the sample to be representative. They have experienced the compan
     ```
     
 1.Do you foresee yourself still with this company in five years?
-Modified:How long have you been in the company? Do you foresee yourself still with this company in five years? Why or why not?
-Reason: Added an easy-to-answer introductory question followed by an open-ended one to gather more detailed insights about future plans.
+Modified:How long have you been in the company? Do you foresee yourself still with this company in five years? 
+Reason: Added an easy-to-answer introductory question. 
 
 2. How long do you think you will be promoted to a higher position?
-Modified:How satisfied are you with the opportunities for career advancement?
+Modified:How satisfied are you with the opportunities for career advancement?on a scale of 1 to 10, with 1 being the lowest?
 Reason: Rephrased to address career advancement opportunities broadly, not just promotions, to encompass role changes and duty switches.
 
 3.What do you think are the perks to work for our company?
-Modified:In the past few months, what do you think are the perks of working for our company?
-Reason: Encourages respondents to recall and articulate specific perks, providing richer qualitative data.
+Modified: What do you think are the perks of working for our company? (Select all that apply)
+A. Work-life Balance B.career advance opportunity C. Great co-workers D. Good Management team 
+
+Reason: Make it easier for respondents to identify and select the benefits they value most.  
 
 4.Do you think your work is valuable to your coworkers or the management team?
 Modified:To what extent do you feel your work is valued by your coworkers or management on a scale of 1 to 10, with 1 being the lowest?
@@ -37,8 +39,8 @@ Modified:How do you think your pay is competitive in the job market? on a scale 
 Reason: Changed from "our rate" to "your rate" to make it more personal and relevant to the respondent's perspective.Also ask the question analyzable
 
 6.Do you feel your work sometimes burns you out?
-Modified: Have you experienced burnout? If yes, what might be the reasons?
-Reason: Made it an open-ended question to elicit more detailed responses about potential factors contributing to burnout.
+Modified: How often will you feel burn out at work? option: Seldom/Sometimes/ Often/ 
+Reason:  provide with clear response options.
 
 7.How much have you learned and grown professionally since joining the company?
 Modified:What factors influenced your decision to stay or consider leaving the company?
