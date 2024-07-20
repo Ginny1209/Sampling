@@ -4,19 +4,55 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+   Relevance: Yes. The survey focuses on lower-level employees who have stayed with the company for a while and have experienced the company culture.
+Accuracy: Moderate. The group excludes employees who left within probation and those who have already left the company.
+Timeliness: Yes. The group is most likely to quit due to high turnover at this time.
+Accessibility: Yes. The group is still working in the office and is reachable.
+Completeness/coherence: yes, the group will be just in the company.
+I still expect the sample to be representative. They have experienced the company culture and are likely debating whether to stay, providing valuable insights on the pros and cons of remaining.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
+    
+1.Do you foresee yourself still with this company in five years?
+Modified:How long have you been in the company? Do you foresee yourself still with this company in five years? 
+Reason: Added an easy-to-answer introductory question. 
+
+2. How long do you think you will be promoted to a higher position?
+Modified:How satisfied are you with the opportunities for career advancement?on a scale of 1 to 10, with 1 being the lowest?
+Reason: Rephrased to address career advancement opportunities broadly, not just promotions, to encompass role changes and duty switches.
+
+3.What do you think are the perks to work for our company?
+Modified: What do you think are the perks of working for our company? (Select all that apply)
+A. Work-life Balance B.career advance opportunity C. Great co-workers D. Good Management team 
+
+Reason: Make it easier for respondents to identify and select the benefits they value most.  
+
+4.Do you think your work is valuable to your coworkers or the management team?
+Modified:To what extent do you feel your work is valued by your coworkers or management on a scale of 1 to 10, with 1 being the lowest?
+Reason: Makes the question more quantifiable and analyzable, allowing for detailed data analysis.
+
+5.How do you think our pay is competitive in the job market?
+Modified:How do you think your pay is competitive in the job market? on a scale of 1 to 10, with 1 being the lowest?
+Reason: Changed from "our rate" to "your rate" to make it more personal and relevant to the respondent's perspective.Also ask the question analyzable
+
+6.Do you feel your work sometimes burns you out?
+Modified: How often will you feel burn out at work? option: Seldom/Sometimes/ Often/ 
+Reason:  provide with clear response options.
+
+7.How much have you learned and grown professionally since joining the company?
+Modified:What factors influenced your decision to stay or consider leaving the company?
+Reason: Replaced this question, as we are looking for the reason why people decide to leave the company. We are looking for something more related to identifying company issues
     ```
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+    I don't think so. My survey meant to understand the reasons behind high turnover among junior positions.
+By observing employee behavior, we can gather data on vacation and sick leave requests,the turn over rate, employee complaints/feedbacks.We might be able to identify the department or function from the trends or pattern analysed. But the underlying reasons cause those behaviors are hard to figure out.
+Therefore, based on my questionnaire, most of my questions are to capture subjective feelings and personal experiences, such as job satisfaction, personal perceptions, intentions.
     ```
 
 ## Why am I doing this assignment?
